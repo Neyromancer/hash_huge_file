@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-#include "input_reader.hpp"
+#include "input_reader/input_reader.hpp"
 
 int main( int argc, const char *argv[] )
 {
